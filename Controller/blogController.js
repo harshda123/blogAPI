@@ -1,4 +1,4 @@
-const Blog = require('../Model/blog')
+const Blog = require('../model/blog')
 const bcrypt = require("bcrypt")
 const jwt = require('jsonwebtoken')
 
